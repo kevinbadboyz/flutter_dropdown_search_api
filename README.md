@@ -16,5 +16,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 =======
- Flutter Dropdown Search API
->>>>>>> 4d58ce86d92b3dd8ea0226297983b3dc02067c4d
+ 
