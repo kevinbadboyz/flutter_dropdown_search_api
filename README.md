@@ -8,5 +8,4 @@ dropdown_search
 
 Configure Project
 Clone the project
-
-https://github.com/kanaydo/flutter_base_app.git
+https://github.com/kevinbadboyz/flutter_dropdown_search_api.git
